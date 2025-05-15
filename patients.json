@@ -1,0 +1,52 @@
+{
+  "P001": {
+    "name": "Alice Johnson",
+    "city": "New York",
+    "age": 34,
+    "gender": "Female",
+    "height": 165,
+    "weight": 68,
+    "bmi": 24.98,
+    "verdict": "Normal"
+  },
+  "P002": {
+    "name": "Bob Smith",
+    "city": "Los Angeles",
+    "age": 45,
+    "gender": "Male",
+    "height": 178,
+    "weight": 85,
+    "bmi": 26.8,
+    "verdict": "Overweight"
+  },
+  "P003": {
+    "name": "Catherine Lee",
+    "city": "Chicago",
+    "age": 29,
+    "gender": "Female",
+    "height": 160,
+    "weight": 54,
+    "bmi": 21.1,
+    "verdict": "Normal"
+  },
+  "P004": {
+    "name": "David Kim",
+    "city": "Houston",
+    "age": 52,
+    "gender": "Male",
+    "height": 172,
+    "weight": 95,
+    "bmi": 32.1,
+    "verdict": "Obese"
+  },
+  "P005": {
+    "name": "Emma Brown",
+    "city": "Phoenix",
+    "age": 40,
+    "gender": "Female",
+    "height": 158,
+    "weight": 49,
+    "bmi": 19.6,
+    "verdict": "Normal"
+  }
+}
