@@ -153,9 +153,6 @@ Test the endpoints with:
 
 ---
 
-## 📸 Screenshot
-
-This project includes a screenshot (`Capture.PNG`) for easy navigation and reference to the file structure in VS Code.
 
 ---
 
