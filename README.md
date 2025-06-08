@@ -153,12 +153,6 @@ Test the endpoints with:
 
 ---
 
-## 📸 Screenshot
-
-This project includes a screenshot (`Capture.PNG`) for easy navigation and reference to the file structure in VS Code.
-
----
-
 ## 🙌 Credits
 
 This project is authored to help learners understand **how FastAPI and Pydantic work together** to build clean, scalable APIs with modern Python.
