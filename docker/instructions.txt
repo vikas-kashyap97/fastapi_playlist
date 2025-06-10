@@ -146,3 +146,5 @@ Getting Started with Docker
    - Example: `docker pull python:3.9` pulls the Python 3.9 image from Docker Hub.
 
 With Docker Desktop and Docker Hub, you have everything you need to start building and running containerized applications quickly and easily.
+
+Note: If your machine isn’t compatible with Docker Desktop, you can use Visual Studio Code’s Docker extension instead.
