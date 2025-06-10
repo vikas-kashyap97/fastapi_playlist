@@ -153,6 +153,7 @@ Test the endpoints with:
 
 ---
 
+
 ## 🙌 Credits
 
 This project is authored to help learners understand **how FastAPI and Pydantic work together** to build clean, scalable APIs with modern Python.
@@ -160,5 +161,4 @@ This project is authored to help learners understand **how FastAPI and Pydantic 
 > GitHub: [https://github.com/vikas-kashyap97/fastapi_playlist.git](https://github.com/vikas-kashyap97/fastapi_playlist.git)
 
 ---
-
 
